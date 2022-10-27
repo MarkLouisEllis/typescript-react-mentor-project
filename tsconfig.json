@@ -3,6 +3,8 @@
 		"jsx": "react",
 		"jsxFactory": "h",
 		"allowSyntheticDefaultImports": true,
-		"esModuleInterop": true
+		"esModuleInterop": true,
+		"lib": ["dom", "es2015"],
+		"experimentalDecorators": true
 	}
 }
