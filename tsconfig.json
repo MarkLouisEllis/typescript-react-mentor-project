@@ -1,5 +1,8 @@
 {
 	"compilerOptions": {
-		"jsx": "react"
+		"jsx": "react",
+		"jsxFactory": "h",
+		"allowSyntheticDefaultImports": true,
+		"esModuleInterop": true
 	}
 }
