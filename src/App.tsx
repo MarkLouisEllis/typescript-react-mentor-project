@@ -1,3 +1,4 @@
+import React from "react";
 import './App.css';
 import FirstPage from './pages';
 
